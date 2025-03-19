@@ -1,3 +1,5 @@
+package package1;
+
 public class class1 {
     String patientname;
     int  patientID;
