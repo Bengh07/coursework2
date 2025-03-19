@@ -11,6 +11,11 @@ public class class1 {
         this.patientgender = patientgender;
     }
 
-    
+    public void getpatientInfo(){
+        System.out.println("the patient name is"+""+patientname);
+        System.out.println("the patient ID is"+""+patientID);
+        System.out.println("the patient adress is" +""+patientadress);
+        System.out.println("the patient gender is"+""+patientgender);
+    }
 }
 
