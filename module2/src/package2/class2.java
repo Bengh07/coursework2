@@ -8,6 +8,7 @@ public class class2 {
     }
 
     public void getpatientRoomNumber(){
+        System.out.println("---------------------------------------");
         System.out.println("the patient Room Number is"+""+roomNumber);
     }
 
